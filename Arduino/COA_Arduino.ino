@@ -1,15 +1,15 @@
-/*****************************************************************
-******************************************************************
+/*********************************************************************
+**********************************************************************
 			   ____ ___    _    
 			  / ___/ _ \  / \   
 			 | |  | | | |/ _ \  
 			 | |__| |_| / ___ \ 
-      \____\___/_/   \_\
-     Conor's Obscurification Algorithm
- 
-  Conor Walsh 2014 - 2015
-     Website: http://www.conorwalsh.net
-     GitHub:  https://github.com/conorwalsh
+			  \____\___/_/   \_\
+                 Conor's Obscurification Algorithm
+	 
+ Conor Walsh 2014 - 2015
+  Website: http://www.conorwalsh.net
+  GitHub:  https://github.com/conorwalsh
   
   Version 3.2
   
