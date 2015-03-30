@@ -5,7 +5,7 @@
 			 | |  | | | |/ _ \  
 			 | |__| |_| / ___ \ 
         		  \____\___/_/   \_\
-                 Conor's Obscurification Algorithm
+                   Conor's Obfuscation Algorithm
  
   Conor Walsh 2014 - 2015
      Website: http://www.conorwalsh.net
