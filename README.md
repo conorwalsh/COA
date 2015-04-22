@@ -6,3 +6,6 @@ You can see the PHP example code in action <a href="http://www.conorwalsh.net/al
 I originally wrote this software as part of an award winning Internet of Things project that I presented at the BT Young Scientist and Technology Exhibition 2015 (Ireland).
 
 Please note that this is not a fully finished piece of software and on some rare occasions artefacts can be left in the decrypted string but this has only happened to me on very rare occasions.
+
+<img src="http://conorwalsh.net/sig.png" />
+Conor Walsh.
