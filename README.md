@@ -7,5 +7,6 @@ I originally wrote this software as part of an award winning Internet of Things 
 
 Please note that this is not a fully finished piece of software and on some rare occasions artefacts can be left in the decrypted string but this has only happened to me on very rare occasions.
 
-<img src="http://conorwalsh.net/sig.png" />
+Thanks for looking at my project I hope that it is of use to you,<br/>
+<img src="http://conorwalsh.net/sig.png" /><br/>
 Conor Walsh.
