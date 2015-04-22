@@ -1,5 +1,5 @@
 # COA
-COA: Conor's Obfuscation Algorithm is a way of obscuring data being sent between an Arduino and a webserver. This is useful as most reversible encryption algorithms won’t run on Arduino and the very few that do are extremely slow. This algorithm can obscure most data on an Arduino in 100 to 300 milliseconds.
+COA: Conor's Obfuscation Algorithm is a way of obscuring data being sent between an Arduino and a webserver. This is useful as most reversible encryption algorithms won’t run on Arduino and the very few that do are extremely slow. This algorithm can obscure most data on an Arduino in 100 to 300 milliseconds (It takes 400 milliseconds for a human to blink).
 
 You can see the PHP example code in action <a href="http://www.conorwalsh.net/algorithms/coa/" target="_blank">here</a>.
 
